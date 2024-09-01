@@ -9,4 +9,4 @@ const port = 3000
 
 app.use(router)
 
-app.listen(port, () => console.log(`Magic happens on port ${port}`))
+app.listen(port, () => console.log(`Backend Sportsee on ${port}`))
